@@ -22,7 +22,7 @@ Admin Frontend and Backend: Link not attached for safety and security purposes.
 Getting Started
 Clone the repository:
 
-git clone https://github.com/Tanmay-312/Tomato-Food-Delivery.git
+
 Navigate to the project directory:
 
 cd Tomato-Food-Delivery
